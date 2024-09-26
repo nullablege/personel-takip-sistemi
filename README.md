@@ -1,4 +1,5 @@
 Personel Database Projesi
+
 Proje Tanımı: Bu proje, bir personel yönetim sistemi olup, çalışan bilgilerini veritabanında saklayan, çalışan istatistiklerini çıkaran ve grafiksel olarak gösteren bir uygulamadır. Kullanıcılar admin tablosunda kayıtlı olan kullanıcı adı ve şifre kombinasyonu ile sisteme giriş yapabilirler. Sistem, çalışan ekleme, silme ve güncelleme işlemlerinin kolayca yapılabilmesini sağlamaktadır.
 Özellikler
 Kullanıcı Girişi:
