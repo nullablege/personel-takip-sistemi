@@ -46,7 +46,10 @@ Windows Forms (WinForms) ile geliştirilmiş arayüz.
 Veritabanı bağlantısı için uygun SQL kütüphaneleri.
 
 Görseller : 
-![PTS2](https://github.com/user-attachments/assets/08215089-432a-4b0a-8dce-ee4e83f1f121)
+
 ![PTS1](https://github.com/user-attachments/assets/74cb9ec0-a058-45b7-9ff0-7e7b0b93f54f)
+
+![PTS2](https://github.com/user-attachments/assets/08215089-432a-4b0a-8dce-ee4e83f1f121)
+
 ![PTS3](https://github.com/user-attachments/assets/49919460-25bd-4ac1-8e5d-2c0b0dda8ff2)
 
